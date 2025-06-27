@@ -54,6 +54,10 @@ html body{
     flex-direction: column;
 }
 
+.align-self-center{
+    align-self: center;
+}
+
 /* tag  */
 
 img{
@@ -112,6 +116,7 @@ img{
  .products .card p{
     color: #808080;
     font-size: 14px;
+    
  }
 
  .products .card h3{
